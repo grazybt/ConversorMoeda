@@ -22,5 +22,5 @@ def conversoes_disponiveis():
                 dic_conversoes_disponiveis[moeda_origem] = [moeda_destino]
         return dic_conversoes_disponiveis
 
+#{"USD": ["BRL", "AED", "CAD", "EUR", "GBP"], "BRL": ["USD", "EUR"]}
 
-#link = "https://economia.awesomeapi.com.br/last/USD-BRL"
